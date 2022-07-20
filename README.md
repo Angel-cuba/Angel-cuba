@@ -17,9 +17,7 @@ I am a self-driven and Full-Stack developer student. Programming is my passion a
 <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897416/Github/react-native_zqgrpt.jpg" height="70" />
 <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897337/Github/docker_or6cn2.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897329/Github/Amazon-Web-Services-1_yfdo7t.png" height="70" />
    </p>
-** And more... **
-
-#### You can see my work on [ Portafolio ](https://example.com "Portafolio")
+And more... 
 
 
 Here are some ideas to get you started:
