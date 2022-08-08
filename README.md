@@ -21,7 +21,7 @@ I am a self-driven and Full-Stack developer student. Programming is my passion a
   <p align="right">
   <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897517/Github/mern_gvd1xa.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897518/Github/pern_ywy7qi.png" height="70" />
 <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897416/Github/react-native_zqgrpt.jpg" height="70" />
-<img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897337/Github/docker_or6cn2.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897329/Github/Amazon-Web-Services-1_yfdo7t.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659679519/Github/aws-amplify_ru3sqp.png" height="68" />
+<img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897337/Github/docker_or6cn2.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897329/Github/Amazon-Web-Services-1_yfdo7t.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659679519/Github/aws-amplify_ru3sqp.png" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659959515/Github/nhost_u0p1ff.webp" height="68" />
    </p>
 And more... 
 
