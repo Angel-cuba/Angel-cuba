@@ -11,7 +11,7 @@ I am a self-driven and Full-Stack developer student. Programming is my passion a
   <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658342089/Github/1_htbUdWgFQ3a94PMEvBr_hQ_gmbcia.png" height="69" />
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658341547/Github/react_native_vs_native_apps_kJeZgPh.npg_az8omn.webp" height="68"/>
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657895055/Github/node_km0hip.jpg" height="70" />
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804174/Github/nestjs-logo_elbok5.png" height="70"/><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804163/Github/java-logo-png_nxc50v.png" height="70"/>
+ <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804174/Github/nestjs-logo_elbok5.png" height="70"/>
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658306815/Github/sqlite_q6lsdh.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897571/Github/mySQL_dik2fz.jpg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897537/Github/postgre-1_xh7evj.jpg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659337697/Github/firebase_fxtnjd.png" height="68" />
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659337711/Github/supabase_go8yn2.svg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658307214/Github/116-1166936_sanity-io-logo-png-transparent-png_lqu3iv.png" height="68" />
   </p>
