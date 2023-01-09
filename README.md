@@ -11,6 +11,9 @@ I am a self-driven and Full-Stack developer student. Programming is my passion a
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897623/Github/redux_hngx2u.png" height="68"/>
   <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658342089/Github/1_htbUdWgFQ3a94PMEvBr_hQ_gmbcia.png" height="69" />
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658341547/Github/react_native_vs_native_apps_kJeZgPh.npg_az8omn.webp" height="68"/>
+ <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1673267854/Github/flutter-no-bg_rfrxng.png" height="68">
+ <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1673267492/Github/dart-no-bg_gvpmaj.png" height="68">
+ 
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657895055/Github/node_km0hip.jpg" height="70" />
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1667378300/Github/ruby_bg_gj1e7v.png" height="68"/>
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804174/Github/nestjs-logo_elbok5.png" height="70"/>
