@@ -15,8 +15,7 @@ I am a self-driven and Full-Stack developer student. Programming is my passion a
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1673267492/Github/dart-no-bg_gvpmaj.png" height="68">
  
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657895055/Github/node_km0hip.jpg" height="70" />
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1667378300/Github/ruby_bg_gj1e7v.png" height="68"/>
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804174/Github/nestjs-logo_elbok5.png" height="70"/>
+ <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804163/Github/java-logo-png_nxc50v.png" height="68"/>
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658306815/Github/sqlite_q6lsdh.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897571/Github/mySQL_dik2fz.jpg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897537/Github/postgre-1_xh7evj.jpg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659337697/Github/firebase_fxtnjd.png" height="68" />
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659337711/Github/supabase_go8yn2.svg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658307214/Github/116-1166936_sanity-io-logo-png-transparent-png_lqu3iv.png" height="68" />
   </p>
