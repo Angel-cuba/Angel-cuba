@@ -1,7 +1,7 @@
 
 # <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658247594/Personal%20/Angel_NON-bg_mgyvrs.png" height="100" width="100"/>Hello, my name is Angel Luis
 
-`Full-stack Web developer` <br/>
+`Full Stack Developer` <br/>
 I am a self-driven and Full-Stack developer student. Programming is my passion and this something that I would love to do for the rest of my life. I have a good hands-on experince in web development.
 
 ## Skills
