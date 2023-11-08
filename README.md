@@ -2,7 +2,6 @@
 # <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658247594/Personal%20/Angel_NON-bg_mgyvrs.png" height="100" width="100"/>Hello, my name is Angel Luis
 
 `Full Stack Developer` <br/>
-I am a self-driven and Full-Stack developer student. Programming is my passion and this something that I would love to do for the rest of my life. I have a good hands-on experince in web development.
 
 ## Skills
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897495/Github/html-bg-transparent_nx6juu.png" height="67"  width="75"/><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897495/Github/css-bg-transparent_i7az5a.png" height="60" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897416/Github/bem_ptxx6c.jpg" height="60"  width="90" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/sass-bg-transparent_bd5ezn.svg" height="60"  /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/tailwinds_cabddm.jpg" height="65" /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/bootstrap-stack_tglhlg.png" height="67" />         
