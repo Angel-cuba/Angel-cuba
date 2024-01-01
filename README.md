@@ -7,7 +7,7 @@
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897495/Github/html-bg-transparent_nx6juu.png" height="67"  width="75"/><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897495/Github/css-bg-transparent_i7az5a.png" height="60" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897416/Github/bem_ptxx6c.jpg" height="60"  width="90" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/sass-bg-transparent_bd5ezn.svg" height="60"  /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/tailwinds_cabddm.jpg" height="65" /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/bootstrap-stack_tglhlg.png" height="67" />         
  <p>
 <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897640/Github/js-ts_ykdafn.png" height="69" /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658341793/Github/react_vrqhgo.png" height="68"/>
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1702258172/Github/ihkrtbbx8mjkk36bvxsg.png" height="68"/>
+  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1704141259/Github/gywmjv6ddbctrp0qtvbo.png" height="68"/>
   <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1702258640/Github/s45ckr45qhhjyw8dwdkj.png" height="60"/>
  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897623/Github/redux_hngx2u.png" height="68"/>
   <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658342089/Github/1_htbUdWgFQ3a94PMEvBr_hQ_gmbcia.png" height="69" />
