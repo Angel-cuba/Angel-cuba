@@ -61,14 +61,27 @@ const angel: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angel-cuba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-cuba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angel-cuba&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angel-cuba&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel-cuba&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel-cuba&theme=tokyonight" height="160"/>
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Angel-cuba&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-cuba&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
 </div>
 
