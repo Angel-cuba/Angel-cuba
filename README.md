@@ -71,9 +71,9 @@ const angel: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-cuba&layout=compact&langs_count=14&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="190"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel-cuba&theme=tokyonight" height="190"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel-cuba&theme=tokyonight" height="190"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angel-cuba&theme=tokyonight&utcOffset=2" height="190"/>
 
 </div>
 
