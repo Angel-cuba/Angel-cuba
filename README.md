@@ -1,34 +1,103 @@
+<a href="https://github.com/Angel-cuba">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Angel%20Luis%20Araoz&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=58a6ff" width="100%"/>
+</a>
 
-# <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658247594/Personal%20/Angel_NON-bg_mgyvrs.png" height="100" width="100"/>Hello, my name is Angel Luis
+<div align="center">
 
-`Full Stack Developer` <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angel+%F0%9F%91%8B;Full+Stack+Developer+%7C+Turku%2C+Finland+%F0%9F%87%AB%F0%9F%87%AE;React+%26+React+Native+Enthusiast;Java+Spring+Boot+%7C+TypeScript+%7C+Node.js;Always+ready+for+a+new+challenge!+%F0%9F%8F%88" alt="Typing SVG" />
 
-## Skills
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897495/Github/html-bg-transparent_nx6juu.png" height="67"  width="75"/><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897495/Github/css-bg-transparent_i7az5a.png" height="60" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897416/Github/bem_ptxx6c.jpg" height="60"  width="90" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/sass-bg-transparent_bd5ezn.svg" height="60"  /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/tailwinds_cabddm.jpg" height="65" /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897474/Github/bootstrap-stack_tglhlg.png" height="67" />         
- <p>
-<img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897640/Github/js-ts_ykdafn.png" height="69" /> <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658341793/Github/react_vrqhgo.png" height="68"/>
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1704141259/Github/gywmjv6ddbctrp0qtvbo.png" height="68"/>
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1702258640/Github/s45ckr45qhhjyw8dwdkj.png" height="60"/>
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897623/Github/redux_hngx2u.png" height="68"/>
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658342089/Github/1_htbUdWgFQ3a94PMEvBr_hQ_gmbcia.png" height="69" />
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658341547/Github/react_native_vs_native_apps_kJeZgPh.npg_az8omn.webp" height="68"/>
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1673267854/Github/flutter-no-bg_rfrxng.png" height="68">
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1673267492/Github/dart-no-bg_gvpmaj.png" height="68">
- 
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657895055/Github/node_km0hip.jpg" height="70" />
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1661804163/Github/java-logo-png_nxc50v.png" height="68"/>
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658306815/Github/sqlite_q6lsdh.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897571/Github/mySQL_dik2fz.jpg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897537/Github/postgre-1_xh7evj.jpg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659337697/Github/firebase_fxtnjd.png" height="68" />
- <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659337711/Github/supabase_go8yn2.svg" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658307214/Github/116-1166936_sanity-io-logo-png-transparent-png_lqu3iv.png" height="68" />
-  </p>
-  <p>
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658331404/Github/git_agftxt.png" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658331561/Github/unnamed_aaloqs.png" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658331885/Github/gitlab_fxu0vi.png" height="68" />
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658332113/Github/ku2frmtvjxqry4l6fohf_dttpaj.webp" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1658332253/Github/GitHub-Desktop-arm64-logo-icon_beiyj0.jpg" height="68" />
-  </p>
-                     
-  <p align="right">
-  <img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897517/Github/mern_gvd1xa.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897518/Github/pern_ywy7qi.png" height="70" />
-<img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897416/Github/react-native_zqgrpt.jpg" height="70" />
-<img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897337/Github/docker_or6cn2.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1657897329/Github/Amazon-Web-Services-1_yfdo7t.png" height="70" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659679519/Github/aws-amplify_ru3sqp.png" height="68" /><img src="https://res.cloudinary.com/dqaerysgb/image/upload/v1659959515/Github/nhost_u0p1ff.webp" height="68" />
-   </p>
-And more... 
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angel--araoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-araoz/)
+[![GitHub](https://img.shields.io/badge/GitHub-Angel--cuba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angel-cuba)
+[![Profile Views](https://komarev.com/ghpvc/?username=Angel-cuba&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Angel-cuba)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const angel: Developer = {
+  name:     "Angel Luis Araoz Morales",
+  role:     "Full Stack Developer",
+  location: "Turku, Finland 🇫🇮",
+  stacks:   ["MERN", "PERN", "React Native", "Java Spring Boot"],
+  languages: ["TypeScript", "JavaScript", "Java", "Dart"],
+  mobile:   ["React Native", "Flutter"],
+  cloud:    ["AWS", "Firebase", "Supabase", "Docker"],
+  motto:    "Always ready for any new project! 🏈",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux&perline=9)](https://skillicons.dev)
+
+**Mobile**
+
+[![Mobile Skills](https://skillicons.dev/icons?i=react,flutter,dart&perline=9)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring&perline=9)](https://skillicons.dev)
+
+**Databases & Cloud**
+
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,aws,docker&perline=9)](https://skillicons.dev)
+
+**Tools**
+
+[![Tool Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&perline=9)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angel-cuba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-cuba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Angel-cuba&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Angel-cuba&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [🛍️ Shopping](https://github.com/Angel-cuba/Shopping) | Full e-commerce application | TypeScript · React |
+| [📸 Insta Native Clone](https://github.com/Angel-cuba/Insta-Native-Clone) | Instagram-like mobile app | React Native · Firebase |
+| [🚗 Uber Eats Clone](https://github.com/Angel-cuba/Uber_Clone_2) | Uber Eats with YELP API + Google Maps | React Native · Redux · Firebase |
+| [📱 Gallery Native](https://github.com/Angel-cuba/Gallery_Native) | Native photo gallery app | React Native |
+| [🔄 React Redux CRUD](https://github.com/Angel-cuba/React-Redux) | State management patterns | JavaScript · React · Redux |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
