@@ -38,10 +38,14 @@ const angel: Developer = {
 **Frontend**
 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux&perline=9)](https://skillicons.dev)
+&nbsp; ![Zustand](https://img.shields.io/badge/Zustand-00B4D8?style=flat-square&logo=react&logoColor=white)
 
 **Mobile**
 
-[![Mobile Skills](https://skillicons.dev/icons?i=react,flutter,dart&perline=9)](https://skillicons.dev)
+[![Mobile Skills](https://skillicons.dev/icons?i=react&perline=9)](https://skillicons.dev)
+&nbsp; ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+<sub>🌱 Some knowledge with:</sub> &nbsp; [![Flutter & Dart](https://skillicons.dev/icons?i=flutter,dart&perline=2)](https://skillicons.dev)
 
 **Backend**
 
@@ -67,7 +71,7 @@ const angel: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angel-cuba&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-cuba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel-cuba&theme=tokyonight" height="160"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel-cuba&theme=tokyonight" height="160"/>
 
