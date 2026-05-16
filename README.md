@@ -71,9 +71,21 @@ const angel: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-cuba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel-cuba&theme=tokyonight" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel-cuba&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-cuba&layout=compact&langs_count=14&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="190"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel-cuba&theme=tokyonight" height="190"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel-cuba&theme=tokyonight" height="190"/>
+
+</div>
+
+<div align="center">
+<sub>Also found across repos &nbsp;·&nbsp;</sub>
+
+![Python](https://img.shields.io/badge/Python-FFDE57?style=flat-square&logo=python&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black)
 
 </div>
 
