@@ -107,8 +107,8 @@ const angel: Developer = {
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [🏋🏽‍♂️ GymSeason](https://github.com/Angel-cuba/Gym_React) | Fitness web application  | TypeScript · React · MUI · Supabase| [Project brief](https://glossy-particle-a8b.notion.site/Project-Brief-GymLab-372f1b1d536581f28714d05194b2334d?source=copy_link)
-| [🧘🏼‍♀️ Relaxing Spa](https://github.com/Angel-cuba/forest-spa)) | Luxury wellness retreat  | React · CSS · i18n | [Project brief](https://glossy-particle-a8b.notion.site/Project-Brief-Ardenne-Retreat-372f1b1d536581399f26f11c28037c74?source=copy_link)
+| [🏋🏽‍♂️ GymSeason](https://github.com/Angel-cuba/Gym_React) | Fitness web application  | TypeScript · React · MUI · Supabase| [Project brief](https://glossy-particle-a8b.notion.site/Project-Brief-GymLab-372f1b1d536581f28714d05194b2334d?source=copy_link) |
+| [🧘🏼‍♀️ Relaxing Spa](https://github.com/Angel-cuba/forest-spa)) | Luxury wellness retreat  | React · CSS · i18n | [Project brief](https://glossy-particle-a8b.notion.site/Project-Brief-Ardenne-Retreat-372f1b1d536581399f26f11c28037c74?source=copy_link) |
 
 ---
 
