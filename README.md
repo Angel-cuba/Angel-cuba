@@ -103,16 +103,6 @@ const angel: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Angel-cuba&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
