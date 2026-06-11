@@ -107,7 +107,7 @@ const angel: Developer = {
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [🏋🏽‍♂️ GymSeason](https://github.com/Angel-cuba/Gym_React) | Full e-commerce application | TypeScript · React |
+| [🏋🏽‍♂️ GymSeason](https://github.com/Angel-cuba/Gym_React) | Fitness web application  | TypeScript · React · MUI · Supabase|
 | [🧘🏼‍♀️ Relaxing Spa](https://github.com/Angel-cuba/forest-spa)) | Luxury wellness retreat  | React · CSS · i18n |
 
 ---
