@@ -117,11 +117,8 @@ const angel: Developer = {
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [🛍️ Shopping](https://github.com/Angel-cuba/Shopping) | Full e-commerce application | TypeScript · React |
-| [📸 Insta Native Clone](https://github.com/Angel-cuba/Insta-Native-Clone) | Instagram-like mobile app | React Native · Firebase |
-| [🚗 Uber Eats Clone](https://github.com/Angel-cuba/Uber_Clone_2) | Uber Eats with YELP API + Google Maps | React Native · Redux · Firebase |
-| [📱 Gallery Native](https://github.com/Angel-cuba/Gallery_Native) | Native photo gallery app | React Native |
-| [🔄 React Redux CRUD](https://github.com/Angel-cuba/React-Redux) | State management patterns | JavaScript · React · Redux |
+| [🏋🏽‍♂️ GymSeason](https://github.com/Angel-cuba/Gym_React) | Full e-commerce application | TypeScript · React |
+| [🧘🏼‍♀️ Relaxing Spa](https://github.com/Angel-cuba/forest-spa)) | Luxury wellness retreat  | React · CSS · i18n |
 
 ---
 
