@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angel+%F0%9F%91%8B;Full+Stack+Developer+%7C+Turku%2C+Finland+%F0%9F%87%AB%F0%9F%87%AE;React+%26+React+Native+Enthusiast;Java+Spring+Boot+%7C+TypeScript+%7C+Node.js;Always+ready+for+a+new+challenge!+%F0%9F%8F%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angel+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Jyv%C3%A4skyl%C3%A4%2C+Finland+%F0%9F%87%AB%F0%9F%87%AE;React+%26+React+Native+Developer;Java+Spring+Boot+%7C+TypeScript+%7C+Node.js;Always+ready+for+a+new+challenge!+%F0%9F%8F%88" alt="Typing SVG" />
 
 <br/>
 
@@ -21,8 +21,8 @@
 ```typescript
 const angel: Developer = {
   name:     "Angel Luis Araoz Morales",
-  role:     "Full Stack Developer",
-  location: "Turku, Finland 🇫🇮",
+  role:     "Full Stack Software Engineer",
+  location: "Jyväskylä, Finland 🇫🇮",
   stacks:   ["MERN", "PERN", "React Native", "Java Spring Boot"],
   languages: ["TypeScript", "JavaScript", "Java", "Dart"],
   mobile:   ["React Native", "Flutter"],
