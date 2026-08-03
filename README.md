@@ -45,7 +45,6 @@ const angel: Developer = {
 [![Mobile Skills](https://skillicons.dev/icons?i=react&perline=9)](https://skillicons.dev)
 &nbsp; ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-<sub>🌱 Some knowledge with:</sub> &nbsp; [![Flutter & Dart](https://skillicons.dev/icons?i=flutter,dart&perline=2)](https://skillicons.dev)
 
 **Backend**
 
